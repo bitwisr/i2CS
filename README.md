@@ -15,22 +15,17 @@
 
 ## Resources
 To facilitate the teaching of this program, several resources and materials are required. These include:
-* Access to a computer lab
-* Access to [GitHub](http://www.github.com)
-* Text Editors like Notepad, Notepad++, Notepad 2, etc
+* Access to a computer and the Internet
+* Access to [GitHub](http://www.github.com) and [YouTube](https://www.youtube.com/channel/UCkpoeMuRS2uO-_LTbQTSCdw)
+* Text Editors like Atom (Preferred), Notepad, Notepad++, Notepad 2, etc
 * Computers running Python 3
 * A variety of web browsers like Internet Explorer, Firefox, Chrome, Safari, or Edge
-* Certified adults working with the student volunteers
-* High School and College student volunteers to teach the courses
 
 ## Use
-This curriculum will be divided into Units and Lessons, with each Unit covering a broad topic of instruction and consisting of several lessons which focus on an aspect of that topic. Lessons will consist of an overview document providing background on the subject, the in class assignments, and information for further inquiry, as well as any necessary accompanying files for download.Each Unit and Lesson will be hosted on [GitHub](http://www.github.com), a web front end for the Git version control system. By using GitHub, students will learn about the importance of version control in Computer Science and how to use one of the most common pieces of version control software as well as have easy access to the materials required for each class.
+This curriculum will be divided into Units and Lessons, with each Unit covering a broad topic of instruction and consisting of several lessons which focus on an aspect of that topic. Lessons will consist of an overview document providing background on the subject, the “in class” assignments, and information for further inquiry, as well as any necessary accompanying files for download.Each Unit and Lesson will be hosted on [GitHub](http://www.github.com), a web front end for the Git version control system. By using GitHub, students will learn about the importance of version control in Computer Science and how to use one of the most common pieces of version control software as well as have easy access to the materials required for each class.
 
 ### For Students
-It is not necessary for students to have an account with GitHub in order to view and download the lessons. Lessons can be downloaded from any computer with access to the Internet, and no special software or licensing/account/sign up is needed. In class, students can use the provided computers to complete all tasks. The materials can also be accessed at home, although some software may need to be installed to complete the tasks. All the software used by this curriculum is either 1) free or, 2) has free alternatives which can be used in its place. Wherever possible, the software that is used will be Free and Open Source (FOSS) to ensure that everyone has the opportunity to learn.
-
-### For Instructors
-It is also not necessary for instructors to have accounts with GitHub in order to effectively teach the lessons, although it is encouraged so that instructors may gain a proficiency in GitHub so as to better understand the topics covered and to be able to troubleshoot any problems that may arise during the teaching of the class. As with the students, instructors will not need to have any special software installed on their personal computers, but doing so will give the instructors more opportunities to go over the material and even learn more themselves!
+It is not necessary for students to have an account with GitHub in order to view and download the lessons. Lessons can be downloaded from any computer with access to the Internet, and no special software or licensing/account/sign up is needed. The materials be accessed anywhere, although some software may need to be installed to complete the tasks. All the software used by this curriculum is either 1) free or, 2) has free alternatives which can be used in its place. Wherever possible, the software that is used will be Free and Open Source (FOSS) to ensure that everyone has the opportunity to learn.
 
 ### For Contributors
 For people wishing to contribute to this curriculum, fear not! By using GitHub, anyone who has something to add can submit proposals to make this collection even better! To do so, you will need an account with GitHub. Simply fork this repository, make the changes, and submit your proposal. If we think that you have some good points, we will merge your edits into the main repository and your work will be seen by all.
