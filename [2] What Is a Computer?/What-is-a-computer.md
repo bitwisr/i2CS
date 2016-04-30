@@ -1,4 +1,4 @@
-# Bitwise Education: Introduction to Computer Science
+# Bitwisr: i2CS
 Given that this is a course dealing with computers, it would probably be a good idea to begin by understanding just what a computer is.
 
 ## Lesson 02: What Is a Computer?
@@ -43,7 +43,7 @@ It’s important to recognize the distinction between memory and storage. Storag
 If so, excellent! You have completed Lesson 02! If you want to learn more about the content presented here, please check out the extra resources listed below.
 
 ## Assignment
-* [ ] Think about the how the term ‘computer’ has come to mean different things at different points in history. 
+* [ ] Think about the how the term ‘computer’ has come to mean different things at different points in history.
 * [ ] What possible developments could occur in the future to change our understanding of what a computer is?
 * [ ] How have science fiction authors imagined what computers will look like in the future? Which ideas have come true and which haven’t? Why do you think this is?
 

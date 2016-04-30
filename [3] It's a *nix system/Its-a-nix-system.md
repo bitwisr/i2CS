@@ -1,5 +1,4 @@
-# Bitwise Education: Introduction to Computer Science
-
+# Bitwisr: i2CS
 We all remember [that classic scene](http://www.wired.com/2015/06/tech-time-warp-time-unix-saved-day-jurassic-park/) from Jurassic Park (if you haven’t seen it, I highly recommended it). Trapped in a room by paleontologically inaccurate velociraptors, Lex, the young teenage hacker, rushes to the lab’s computer terminal and discovers it runs Unix. Navigating the 3D maze of files, she finds the controls for the park and reboots the system, locking the doors and saving the day.
 
 Although this scene seems today a poorly rendered CGI cliché, a Unix system is a real thing, and has led to the development of software that today runs on millions of devices world wide. Unix is a type of operating system - a central component of your computers software and the tool that enables you to run programs and applications. This week, we take a look at just what operating systems are and how they function.
